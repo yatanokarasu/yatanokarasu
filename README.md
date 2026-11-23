@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Badges
+
+<a href="https://certdirectory.io/profile/yusuke-takei?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/yusuke-takei.svg?style=card&theme=dark">
+    <img alt="Yusuke TAKEI on CertDirectory" src="https://certdirectory.io/badge/yusuke-takei.svg?style=card">
+  </picture>
+</a>
